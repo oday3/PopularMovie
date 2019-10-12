@@ -1,2 +1,2 @@
-# PopularMoviesStageOne
-Please go to **res/values/ids.xml** and put your API_KEY in **the_movie_db_api_key**
+# Popular Movies
+Simple app that shows popular and top rated movies;
